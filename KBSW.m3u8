@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1484213298_b1344100_sleng_RiyanCoday.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1484213298_b894100_sleng_RiyanCoday.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1484213298_b684100_sleng_RiyanCoday.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1484213298_b494100_sleng_RiyanCoday.m3u8
+http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=30e9bdab87a3f16cdf07ccab2d13d19348b68aa0ddb165f03edf9122a51e3cfa
