@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+# variants
 #EXT-X-STREAM-INF:BANDWIDTH=6993000,AVERAGE-BANDWIDTH=6357000,CODECS="mp4a.40.2,avc1.4D4028",RESOLUTION=1920x1080,FRAME-RATE=30
 http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
